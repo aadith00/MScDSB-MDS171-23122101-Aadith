@@ -9,8 +9,8 @@ aadith.mathew@msds.christuniversity.in
 
 
 ## Index
-|Sl.no|Date|File name|Topic|
-|:----:|:----:|:---:|:----:|
+|Sl.no|Date|File name|Topic|Link
+|:----:|:----:|:---:|:----:|:----:|
 |1.|23-08-23|Lab01|write a program to enter name and push it to github| https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/5ad15174ddb2dc7a6209db22864dad47c4c61f05/Lab01.ipynb|
 |2.|29-08-23|Lab02|Write a program to print numbers in words|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/5ad15174ddb2dc7a6209db22864dad47c4c61f05/Lab02.ipynb
 |3.|31-08-23|Lab03|Write a program to print mean, max, min, and Range|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/5ad15174ddb2dc7a6209db22864dad47c4c61f05/Lab03.ipynb
