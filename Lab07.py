@@ -10,18 +10,19 @@
 
 
 class expenseTracker:
+
     def __init__(self):
         self.expenseDict = {
-            "income": [] ,
-            "expense": []
+            "income" : [] ,
+            "expense" : []
         }
 
     def store_transactions(self, type, amt, category, date, details):
         trans = {
-            "Amount": amt ,
-            "Category": category ,
-            "Date": date ,
-            "Details": details
+            "Amount" : amt ,
+            "Category" : category ,
+            "Date" : date ,
+            "Details" : details
         }
         if type == "income":
             self.expenseDict['income'].append(trans)
@@ -51,6 +52,8 @@ class expenseTracker:
     def store_to_csv(self):
         with open("My_Expense_Trcker.csv" , "w+") as file:
             for item in self.expenseDict['income']:
+                file.write(str(item))
+            for item in self.expenseDict['expense']:
                 file.write(str(item))
 
 # define a menu that will let users to enter expense, view expenses
@@ -95,5 +98,3 @@ while True:
         exit()
     else:
         print("Invalid choice!")
-
-

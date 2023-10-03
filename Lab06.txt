@@ -1,100 +1,100 @@
-Pen,	2,	80
-Pen,	3,	90
-Tea,	10,	40
-Book,	5,	70
-Book,	10,	30
-Coffee,	2,	70
-Sandwich,	15,	50
-Coffee,	15,	60
-Sandwich,	4,	70
-Tea,	8,	10
-Eraser,	5,	90
-Eraser,	4,	90
-Sandwich,	2,	70
-Sandwich,	8,	80
-Vegetables,	10,	10
-Pen,	4,	90
-Pen,	3,	20
-Eraser,	15,	20
-Pen,	2,	50
-Pencil,	7,	30
-Vegetables,	15,	80
-Coffee,	5,	60
-Sandwich,	7,	50
-Tea,	4,	80
-Vegetables,	4,	30
-Pencil,	3,	30
-Pen,	4,	10
-Coffee,	4,	90
-Eraser,	2,	70
-Vegetables,	2,	30
-Pencil,	4,	100
-Juice,	7,	50
-Sandwich,	7,	10
-Eraser,	8,	100
-Pen,	7,	30
-Book,	6,	50
-Vegetables,	5,	10
-Vegetables,	15,	100
-Pencil,	3,	10
-Book,	2,	100
-Pencil,	5,	100
-Eraser,	4,	60
-Tea,	4,	20
-Pencil,	8,	50
-Juice,	7,	60
-Pencil,	4,	100
-Pencil,	10,	80
-Pen,	4,	30
-Tea,	3,	60
-Book,	2,	40
-Vegetables,	4,	100
-Sandwich,	8,	20
-Pencil,	5,	60
-Pen,	4,	90
-Vegetables,	4,	10
-Book,	4,	20
-Eraser,	10,	80
-Eraser,	7,	50
-Box,	10,	10
-Pen,	5,	90
-Book,	10,	70
-Sandwich,	10,	70
-Pencil,	3,	30
-Book,	2,	100
-Box,	3,	60
-Juice,	10,	50
-Juice,	10,	100
-Tea,	4,	80
-Juice,	2,	90
-Book,	5,	50
-Pencil,	2,	80
-Pen,	8,	40
-Juice,	6,	90
-Eraser,	10,	20
-Coffee,	4,	100
-Eraser,	6,	80
-Coffee,	4,	20
-Book,	15,	70
-Vegetables,	10,	60
-Sandwich,	5,	90
-Sandwich,	3,	70
-Pencil,	10,	70
-Pencil,	15,	100
-Vegetables,	3,	60
-Pen,	2,	90
-Juice,	8,	80
-Vegetables,	7,	70
-Box,	3,	40
-Sandwich,	2,	40
-Vegetables,	2,	90
-Coffee,	15,	70
-Book,	15,	50
-Pen,	4,	60
-Tea,	6,	80
-Sandwich,	4,	10
-Pencil,	5,	90
-Vegetables,	3,	10
-Coffee,	2,	10
-Vegetables,	4,	20
-Box,	15,	70
+Tea,3,40
+Eraser,5,90
+Eraser,10,10
+Juice,5,40
+Pen,7,20
+Book,15,80
+Eraser,6,10
+Sandwich,5,40
+Vegetables,10,60
+Pencil,10,50
+Box,3,80
+Vegetables,3,30
+Tea,5,70
+Box,15,20
+Tea,5,90
+Coffee,4,40
+Pencil,3,20
+Box,15,80
+Pen,6,80
+Book,4,80
+Vegetables,7,30
+Pencil,7,90
+Coffee,4,10
+Coffee,6,100
+Coffee,7,20
+Juice,3,70
+Vegetables,7,40
+Pen,3,60
+Book,3,60
+Box,3,100
+Vegetables,3,50
+Eraser,6,70
+Eraser,15,100
+Tea,7,90
+Sandwich,2,20
+Pen,3,100
+Sandwich,4,20
+Coffee,6,70
+Tea,8,70
+Juice,10,10
+Juice,7,80
+Eraser,3,50
+Vegetables,4,100
+Juice,8,50
+Eraser,8,50
+Tea,3,30
+Book,6,80
+Book,4,80
+Pencil,3,80
+Eraser,7,90
+Book,3,30
+Vegetables,5,90
+Coffee,4,70
+Juice,6,50
+Pen,15,70
+Coffee,7,40
+Box,3,80
+Coffee,6,50
+Eraser,4,10
+Book,5,90
+Book,2,40
+Coffee,4,60
+Eraser,2,90
+Box,4,10
+Eraser,4,60
+Eraser,15,20
+Pen,6,20
+Juice,8,30
+Juice,4,60
+Coffee,8,10
+Pencil,10,50
+Coffee,7,60
+Box,6,40
+Eraser,7,10
+Tea,4,50
+Sandwich,15,30
+Pen,10,90
+Juice,4,40
+Eraser,15,70
+Tea,4,10
+Coffee,8,60
+Sandwich,15,90
+Tea,15,70
+Box,3,10
+Pencil,7,40
+Juice,5,60
+Sandwich,4,10
+Eraser,4,80
+Tea,3,100
+Tea,8,80
+Pencil,15,60
+Vegetables,3,40
+Pen,2,10
+Pen,5,30
+Pen,4,80
+Book,6,70
+Tea,8,20
+Coffee,15,60
+Juice,4,30
+Book,3,90
