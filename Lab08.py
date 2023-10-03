@@ -51,9 +51,11 @@ while True:
     if choice == 1:
         value = input('Enter the value to be added into the stack: ')
         stack_1.push(value)
+        print(stack_1)
     elif choice == 2:
         value = int(input('Enter the index number of item to be removed: '))
         stack_1.pop(value)
+        print(stack_1)
     elif choice == 3:
         stack_1.display()
     elif choice == 4:
