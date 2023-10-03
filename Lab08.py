@@ -36,3 +36,33 @@ stack_1.display()
 stack_1.size()
 stack_1.top_item()
 stack_1.check()
+
+while True:
+    print('1. Push a value.')
+    print('2. Pop a value.')
+    print('3. Print items in the stack.')
+    print('4. Print size of the stack.')
+    print('5. Display top-most item in the stack.')
+    print('6. Check if the stack is empty.')
+    print('7. Exit')
+
+    choice = int(input('Enter your choice: '))
+
+    if choice == 1:
+        value = input('Enter the value to be added into the stack: ')
+        stack_1.push(value)
+    elif choice == 2:
+        value = int(input('Enter the index number of item to be removed: '))
+        stack_1.pop(value)
+    elif choice == 3:
+        stack_1.display()
+    elif choice == 4:
+        stack_1.size()
+    elif choice == 5:
+        stack_1.top_item()
+    elif choice == 6:
+        stack_1.check()
+    elif choice == 7:
+        exit
+    else:
+        print('Invalid option.')
