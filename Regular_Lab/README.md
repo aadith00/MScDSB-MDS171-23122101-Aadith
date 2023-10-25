@@ -19,3 +19,4 @@ aadith.mathew@msds.christuniversity.in
 |6.|14-09-23|Lab06|Write a program to mix and match items|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/cc38e456589571f3d3d97e3bcf17d714a5a84a1c/Lab06.ipynb|
 |7.|21-09-23|Lab07|Write a program to track income and expenses|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/cc38e456589571f3d3d97e3bcf17d714a5a84a1c/Lab07.py|
 |8.|03-10-23|Lab08|Write a program to stack class and use various methods|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/cc38e456589571f3d3d97e3bcf17d714a5a84a1c/Lab08.py|
+|9.|
