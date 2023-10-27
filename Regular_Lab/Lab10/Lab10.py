@@ -23,11 +23,6 @@ class classroom:
     def view(self):
         print(self.classroom)
 
-    def update(self):
-        print('1. Name')
-        print('2. Subject')
-        print('3. Marks')
-
         while True:
 
             choice_1 = int(input('Enter what value is to be updated: '))
@@ -56,19 +51,53 @@ class classroom:
                 print("PLease enter a valid choice.")
                 exit()
 
-    def search(self):
-        search_name = print('Enter the name to be searched: ')
-
-        for 
-        
-
 obj = classroom()
-n = int(input('Enter the number of students to be added: '))
 
-for i in range(n):
-    roll = int(input('Enter the roll number: '))
-    name = input('Enter the name of th student: ')
-    subject = input('Enter the subject name: ')
-    mark = int(input('Enter the marks obtained in {}: '.format(subject)))
+while True:
+    print('1. Teacher')
+    print('2. Student')
 
-    obj.collectinfo(roll,name,subject,mark)
+    choice_1 = input('Please enter your user type: ')
+
+    if choice_1 == '1':
+        print('1. Input student details')
+        print('2. View database')
+        print('3. Exit')
+
+        while True:
+            choice_2 = input('Please enter the operation: ')
+
+            if choice_2 == '1':
+                n = int(input('Enter the number of students to be added: '))
+                for i in range(n):
+                    roll = int(input('Enter the roll number: '))
+                    name = input('Enter the name of th student: ')
+                    subject = input('Enter the subject name: ')
+                    mark = int(input('Enter the marks obtained in {}: '.format(subject)))
+
+                    obj.collectinfo(roll,name,subject,mark)
+
+            elif choice_2 == '2':
+                obj.view()
+            elif choice_2 == '3':
+                exit()
+            else:
+                print('Please enter a valid option.')
+
+    elif choice_1 == '2':
+        
+            print('1. View database')
+            print('2. Exit')
+
+            while True:
+
+                choice = input('Please enter an operation: ')
+
+                if choice == '1':
+                    obj.view()
+
+                elif choice == '2':
+                    exit()
+
+                else:
+                    print('Please choose a valid option')

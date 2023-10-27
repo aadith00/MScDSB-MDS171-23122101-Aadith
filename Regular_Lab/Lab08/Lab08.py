@@ -65,6 +65,6 @@ while True:
     elif choice == 6:
         stack_1.check()
     elif choice == 7:
-        exit()
+        exit(1)
     else:
         print('Invalid option.')
