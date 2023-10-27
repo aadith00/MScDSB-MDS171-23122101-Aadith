@@ -19,5 +19,5 @@ aadith.mathew@msds.christuniversity.in
 |6.|14-09-23|Lab06|Write a program to mix and match items|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/cc38e456589571f3d3d97e3bcf17d714a5a84a1c/Lab06.ipynb|
 |7.|21-09-23|Lab07|Write a program to track income and expenses|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/cc38e456589571f3d3d97e3bcf17d714a5a84a1c/Lab07.py|
 |8.|03-10-23|Lab08|Write a program to stack class and use various methods|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/cc38e456589571f3d3d97e3bcf17d714a5a84a1c/Lab08.py|
-|9.|**-10-23|Lab09|Write a program to manage a pet store|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/3fc4d93e4199b1b30fca16de7955ff7a697b6cbe/Regular_Lab/Lab09/Lab09.py|
+|9.|10-10-23|Lab09|Write a program to manage a pet store|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/3fc4d93e4199b1b30fca16de7955ff7a697b6cbe/Regular_Lab/Lab09/Lab09.py|
 |10.|26-10-23|Lab10|Write a program to manage classroom details for different types of users|https://github.com/aadith00/MScDSB-MDS171-23122101-Aadith/blob/3fc4d93e4199b1b30fca16de7955ff7a697b6cbe/Regular_Lab/Lab10/Lab10.py|
