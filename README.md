@@ -11,4 +11,5 @@ aadith.mathew@msds.christuniversity.in
 |SL.No|Folder Name|Description
 |:----:|:----:|:----:|
 |01|CAC|CAC project works|
-|02|Regular Class|
+|02|Regular Class|Regular practice done in class hours|
+|03|Regular Lab|Lab works to be submitted|
